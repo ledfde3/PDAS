@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Componente App</h1>
+      
         <section className="hero is-dark">
           <div className="hero-body">
             <p className="title">Personal Digital Asistents</p>
