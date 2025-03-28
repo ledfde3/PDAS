@@ -4,7 +4,7 @@ function ProfileCard(title, handle, Image) {
     console.log(Image)
 
   return (
-    <div>ProfileCard</div>
+    <div>ProfileCard  2</div>
   )
 }
 
